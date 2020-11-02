@@ -1,0 +1,12 @@
+pandas==0.13.1
+numpy==1.18.0
+matplotlib==1.3.1
+colorspacious==1.1.2
+dill==0.3.1.1
+networkx==2.4
+Pillow==7.0.0
+python_dateutil==2.8.1
+python_Levenshtein==0.12.0
+scikit_learn==0.22.1
+seaborn==0.9.0
+textstat==0.6.0
